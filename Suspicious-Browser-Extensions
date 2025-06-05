@@ -1,0 +1,66 @@
+SUSPICIOUS BROWSER EXTENSIONS IDENTIFICATION & REMOVAL:
+--------------------------------------------------------
+
+BROWSER : Google Chrome
+DATE PERFORMED : 5th June 2025
+OBJECTIVE : Identified and removed potentially harmful or unnecessary browser extensions to enhance browser security and performance
+
+-------------------- 
+EXTENSIONS REVIEWED: 
+--------------------
+A total of two extensions were installed in Chrome. Each was reviewed based on:
+   - Developer source
+   - Permissions requested
+   - User reviews and reputation
+   - Actual usage and necessity
+
+Two Extensions are: 
+   1. Google Docs Offline
+   2. 360 Internet protection
+   
+---------------------------------
+INFORMATION ABOUT TWO EXTENSIONS:
+---------------------------------
+1. GOOGLE DOCS OFFLINE:
+    - Developer: Google LLC (Verified)
+    - Functionality: Allows users to create, view, and edit Google Docs, Sheets, and Slides without internet access.
+    - Permissions: Minimal, restricted to Google Docs-related services only.
+    - Reputation: Widely used and trusted, with high ratings.
+    - Security Concern: None detected.
+    - Usage: Actively used and necessary for offline productivity.
+    - Verdict: Safe — Kept
+    
+2. 360 INTERNET PROTECTION:
+    - Developer: Qihoo 360, a Chinese cybersecurity company
+    - Functionality: Advertised to provide browser protection against phishing and malware.
+    - Permissions: Requires broad access to websites and browsing activity.
+    - Reputation:
+        -> Mixed reviews online
+        -> Known for aggressive behavior, potential tracking concerns, and past controversies related to privacy.
+        -> Often bundled with 360 Total Security software
+    - Security Concern:
+        -> May track user activity
+        -> Potential to collect excessive data
+    - Usage: Not actively used, no dependency on 360 antivirus software installed on system
+    - Verdict: Suspicious — Removed
+    
+-------------
+ACTION TAKEN:
+-------------
+- Removed: 360 Internet Protection
+- Retained: Google Docs Offline
+- Restarted Chrome to confirm performance and behavior
+
+----------------
+REMOVAL RESULTS:
+----------------
+- Browser Speed: Improved — Slightly faster startup and smoother tab switching.
+- Ads/Popups: None observed — No random ads or intrusive notifications present.
+- Memory Usage: Reduced — Lower background activity from unnecessary extensions.
+
+-----------
+CONCLUSION:
+-----------
+- One potentially suspicious extension (360 Internet Protection) was identified and successfully removed.
+- The only remaining extension is an official Google extension, verified and trusted.
+- Chrome is now in a safer and more optimized state, with better privacy and performance.
